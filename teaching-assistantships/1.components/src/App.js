@@ -4,7 +4,7 @@ import Tabs from './Tabs.js'
 import Content from './Content.js'
 import data from './Text.js'
 
-//practica
+
 
 
 class App extends Component {
