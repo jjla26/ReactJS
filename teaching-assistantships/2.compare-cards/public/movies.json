@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "excerpt": "Star Wars from George Lucas",
+      "id": 6,
+      "image": "https://c1.staticflickr.com/1/824/41934421151_a478646dd0.jpg",
+      "name": "Star Wars Ep. IV",
+      "price": 12
+    }, {
+      "excerpt": "Seven Samurai from Akira Kurosawa",
+      "id": 7,
+      "image": "https://c1.staticflickr.com/1/909/41034647585_fee38ef2a3.jpg",
+      "name": "Seven Samurai",
+      "price": 12
+    }, {
+      "excerpt": "A Clockwork Orange from Stanley Kubrick",
+      "id": 8,
+      "image": "https://c1.staticflickr.com/1/824/41934423861_5a4feda0b8.jpg",
+      "name": "A Clockwork Orange",
+      "price": 15
+    }, {
+      "excerpt": "300 from Zack Snyder",
+      "id": 9,
+      "image": "https://c1.staticflickr.com/1/906/41215773324_4a57a784d2_b.jpg",
+      "name": "300",
+      "price": 10
+    }, {
+      "excerpt": "The Terminator from James Cameron",
+      "id": 10,
+      "image": "https://c1.staticflickr.com/1/823/41889932592_6068cf3798.jpg",
+      "name": "The Terminator",
+      "price": 15
+    }
+  ],
+  "station": "movies",
+  "success": true
+}

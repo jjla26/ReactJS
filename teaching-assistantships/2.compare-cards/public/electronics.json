@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "excerpt": "Android TV Quad Core V.7.0",
+      "id": 1,
+      "image": "https://c1.staticflickr.com/1/911/41934425191_88bbac001b_z.jpg",
+      "name": "Android TV",
+      "price": 150
+    }, {
+      "excerpt": "Speakers BT Genius 100 Watts",
+      "id": 2,
+      "image": "https://c1.staticflickr.com/1/959/41934423331_31a1fc148f_z.jpg",
+      "name": "Speakers BT Genius",
+      "price": 200
+    }, {
+      "excerpt": "Tv AOC 43 Inches, Smart TV",
+      "id": 3,
+      "image": "https://c1.staticflickr.com/1/831/41215767194_dbb0529856_b.jpg",
+      "name": "Televisor AOC",
+      "price": 300
+    }, {
+      "excerpt": "Cafetera NESPRESSO Inissia",
+      "id": 4,
+      "image": "https://c1.staticflickr.com/1/979/40126746090_ea0f5f05b5_z.jpg",
+      "name": "Coffee maker NESPRESSO",
+      "price": 200
+    }, {
+      "excerpt": "iPhone 6s 16 GB Color Negro",
+      "id": 5,
+      "image": "https://c1.staticflickr.com/1/864/41034660385_5899437aa4.jpg",
+      "name": "iPhone 6s 16 GB",
+      "price": 350
+    }
+  ],
+  "station": "electronics",
+  "success": true
+}

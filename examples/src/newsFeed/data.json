@@ -1,0 +1,26 @@
+[{
+  "user": "Eduardo 1",
+  "profile_picture": "http://lorempixel.com/100/100/",
+  "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+  "answers": [{
+    "user": "Johana",
+    "profile_picture": "http://lorempixel.com/50/50/",
+    "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."}, {
+      "user": "Antito",
+      "profile_picture": "http://lorempixel.com/50/50/",
+      "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    }]
+},
+{
+  "user": "Eduardo 2",
+  "profile_picture": "http://lorempixel.com/100/100/",
+  "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+  "answers": [{
+    "user": "Johana",
+    "profile_picture": "http://lorempixel.com/50/50/",
+    "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."}, {
+      "user": "Antito",
+      "profile_picture": "http://lorempixel.com/50/50/",
+      "message": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+    }]
+}]

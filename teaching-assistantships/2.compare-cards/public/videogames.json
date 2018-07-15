@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "excerpt": "Super Mario Bros 64",
+      "id": 1,
+      "image": "https://c1.staticflickr.com/1/955/27064349077_3c19b3d0c6_b.jpg",
+      "name": "Super Mario Bros 64",
+      "price": 20
+    }, {
+      "excerpt": "The Legend Of Zelda: Ocarina Of Time",
+      "id": 2,
+      "image": "https://c1.staticflickr.com/1/947/40126743320_6db21a6ecd.jpg",
+      "name": "The Legend Of Zelda: Ocarina Of Time",
+      "price": 30
+    }, {
+      "excerpt": "Megaman X",
+      "id": 3,
+      "image": "https://c1.staticflickr.com/1/973/27064406547_b5f1353a3e_b.jpg",
+      "name": "Megaman X",
+      "price": 30
+    }, {
+      "image": "https://c1.staticflickr.com/1/955/40126746890_68feebf7d4_z.jpg",
+      "id": 4,
+      "excerpt": "Borderlands",
+      "name": "Borderlands",
+      "price": 20
+    }, {
+      "excerpt": "God Of War",
+      "id": 5,
+      "image": "https://c1.staticflickr.com/1/968/40126745590_7e8af36d04_b.jpg",
+      "name": "God Of War",
+      "price": 20
+    }
+  ],
+  "station": "videogames",
+  "success": true
+}

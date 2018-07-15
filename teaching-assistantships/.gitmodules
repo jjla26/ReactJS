@@ -1,0 +1,18 @@
+[submodule "1.components"]
+	path = 1.components
+	url = https://gitlab.com/desafiolatam-react-g4/1.components.git
+[submodule "2.compare-cards"]
+	path = 2.compare-cards
+	url = https://gitlab.com/desafiolatam-react-g4/2.compare-cards.git
+[submodule "3.virtual-basket"]
+	path = 3.virtual-basket
+	url = https://gitlab.com/desafiolatam-react-g4/3.virtual-basket.git
+[submodule "4.pokedex"]
+	path = 4.pokedex
+	url = https://gitlab.com/desafiolatam-react-g4/4.pokedex.git
+[submodule "5.weather-forecast"]
+	path = 5.weather-forecast
+	url = https://gitlab.com/desafiolatam-react-g4/5.weather-forecast.git
+[submodule "6.spotify-search"]
+	path = 6.spotify-search
+	url = https://gitlab.com/desafiolatam-react-g4/6.spotify-search.git
